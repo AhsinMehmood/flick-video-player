@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cached_video_player: ^1.0.3
+  video_player: ^0.10.8+1
   provider: ^3.2.0
   wakelock: ^0.1.4+1
 
